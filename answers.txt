@@ -1,7 +1,6 @@
 Task 1:
-
 // Under this line write a message to yourself from GitHub
-
+This is my first message.
 // Under this line, describe what the command 'git fetch' does
 
 

@@ -2,7 +2,7 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 This is my first message.
 // Under this line, describe what the command 'git fetch' does
-
+The git fetch command fetches changes in the remote repo compared to your local repo.
 
 Task 2:
 

@@ -7,6 +7,7 @@ The git fetch command fetches changes in the remote repo compared to your local 
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+Commits are super important, as one should commit often and commit early. Since commits aren't automatically pushed to the repo in the command line, it allows programmers to push a batch of commits at one time.the command git push will push all local commits to the remote repo.
 
 Task 3:
 
